@@ -10,6 +10,7 @@ import com.example.kotlincool.callbacks.OnCrashListener
 import com.example.kotlincool.callbacks.OnEatenFoodListener
 import java.util.*
 import kotlin.concurrent.thread
+//import com.example.loggerlibrary.e
 
 
 class SnakeGameView(context: Context, attributeSet: AttributeSet) : View(context, attributeSet) {
